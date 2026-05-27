@@ -1,0 +1,9 @@
+title: Demopocrisy Archive
+description: A digital repository for case studies, institutional observations, and court paperwork.
+theme: jekyll-theme-cayman # A clean, high-contrast default theme
+
+# If you decide to use advanced collections for your cases later:
+collections:
+  cases:
+    output: true
+    permalink: /cases/:path/
